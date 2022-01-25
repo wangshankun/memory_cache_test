@@ -7,3 +7,4 @@
 为了直观的了解 Cache associativity 的影响，需要在同样的 memory set 中重复访问超过 16 个元素
 
 ```
+![image](https://github.com/wangshankun/memory_cache_test/blob/master/cache_collision_step/readme.jpg)
